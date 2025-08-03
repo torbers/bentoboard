@@ -19,7 +19,7 @@ no weird proprietary connectors.
 
 licensed under CC-BY-SA.
 many schematics and layouts in this project were adapted from excellent open-source designs and tutorials by Adafruit and others. Please support their businesses! <br>
-[Adafruit](https://www.adafruit.com/)
+- [Adafruit](https://www.adafruit.com/)
 
 ---
 
