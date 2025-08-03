@@ -1,8 +1,8 @@
 # bentoboard
 
+as many ready-to-use electronics as i could fit on a 4"x4" PCB.
 
 ### essential hardware
-as many ready-to-use electronics as i could fit on a 4"x4" PCB.
 
 - controllers. interfaces. wireless.
 - sensors. adcs. io expanders.
