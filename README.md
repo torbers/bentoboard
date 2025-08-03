@@ -9,12 +9,18 @@ the stuff you need to get making.
 - sensors. adcs. io expanders.
 - motor drivers. blinky lights. speaker amps.
 
+### modular design
+
+bentoboard is designed to be expanded on to many electrical disciplines!
+- 4"x4" "sessions" include a smörgåsbord of breakout boards, each the heart of a new idea.
+- I2C via stemma qt/qwiic/jst-sh plugs.
+- 0.1" pin spacing – 100% breadboard compatible.
+
 ### common components
 
 no weird proprietary connectors or manufacturing methods.
-- I2C via stemma qt/qwiic/jst-sh plugs.
-- 0.1" pin spacing – 100% breadboard compatible.
 - 0.1" cutouts & [mousebites](https://github.com/madworm/Panelization.pretty)
+- M3 mounting holes where possible
 - smallest component size: 0402 (1005 metric)
 - optimized for pcbway design rules
 
