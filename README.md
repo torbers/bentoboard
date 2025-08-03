@@ -11,9 +11,9 @@ the stuff you need to get making.
 
 ### common interconnects
 
-no weird proprietary connectors:
-- I2C via stemma qt/qwiic/jst-sh plugs. <br>
-- 0.1" pin spacing – 100% breadboard compatible. <br>
+no weird proprietary connectors.
+- I2C via stemma qt/qwiic/jst-sh plugs.
+- 0.1" pin spacing – 100% breadboard compatible.
 
 ### open source
 
