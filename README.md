@@ -9,15 +9,21 @@ the stuff you need to get making.
 - sensors. adcs. io expanders.
 - motor drivers. blinky lights. speaker amps.
 
-### common interconnects
+### common components
 
-no weird proprietary connectors.
+no weird proprietary connectors or manufacturing methods.
 - I2C via stemma qt/qwiic/jst-sh plugs.
 - 0.1" pin spacing – 100% breadboard compatible.
+- 0.1" cutouts & [mousebites](https://github.com/madworm/Panelization.pretty)
+- smallest component size: 0402 (1005 metric)
+- optimized for pcbway design rules
 
 ### open source
 
-licensed under CC-BY-SA.
+<a href="https://github.com/torbers/bentoboard">bentoboard project</a> © 2025 by <a href="http://sambkothe.com">Sam Kothe (torbers)</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+
+(this means that you can use my designs in your own projects, and you can create & sell your own bentoboards for others to enjoy! but you must include attribution to me in the final product or source code, and your work must use the same license.)
+
 many schematics and layouts in this project were adapted from excellent open-source designs and tutorials by Adafruit and others. Please support their businesses! <br>
 - [Adafruit](https://www.adafruit.com/)
 
