@@ -1,4 +1,6 @@
 # bentoboard
+<img width="1792" height="1784" alt="image" src="https://github.com/user-attachments/assets/45101b91-f26b-47c6-903d-5b7ab3f3168a" />
+
 
 as many ready-to-use electronics as i could fit on a 4"x4" PCB.
 
@@ -36,6 +38,8 @@ many schematics and layouts in this project were adapted from excellent open-sou
 ---
 
 ## bb00 survey session
+
+<img width="1003" height="402" alt="Artboard 1" src="https://github.com/user-attachments/assets/76d370d4-bcec-4276-8a80-0e344767a879" />
 
 these are the things people need most often in my electronics lab, and the things i reach for when i need to solve a problem. it's the stuff that will take you the farthest with the least kerfuffle. a practical survey of what's possible.
 
