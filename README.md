@@ -29,7 +29,7 @@ no weird proprietary connectors or manufacturing methods.
 ### open source
 
 <a href="https://github.com/torbers/bentoboard">bentoboard project</a> © 2025 by <a href="http://sambkothe.com">Sam Kothe (torbers)</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-<a href="https://github.com/torbers/bentoboard">bentoboard art</a> © 2025 by <a href="http://sambkothe.com">Sam Kothe (torbers) & Miles Gherman (teppin)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+<a href="https://github.com/torbers/bentoboard">bentoboard art</a> © 2025 by <a href="http://sambkothe.com">Sam Kothe (torbers) & Miles Gehrman (teppin)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 (this means that you can use my designs in your own projects, and you can create & sell your own bentoboards for others to enjoy in accordance with [open source standards](https://opensource.org/osd)! but you must include attribution to me in the final product or source code, and your work must use the same license. also, you may not use my art commercially.)
 
